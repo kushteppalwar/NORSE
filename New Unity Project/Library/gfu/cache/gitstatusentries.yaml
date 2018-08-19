@@ -12,9 +12,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-19T08:27:03.087+05:30
-  initializedAtString: 2018-08-19T08:27:02.779+05:30
+  lastUpdatedAtString: 2018-08-19T12:30:50.219+05:30
+  initializedAtString: 2018-08-19T12:30:49.211+05:30
   entries:
+  - path: New Unity Project\Library\CurrentLayout.dwlt
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
   - path: New Unity Project\Library\EditorInstance.json
     fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -75,27 +81,27 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-4b239052e9f7b4f4c8a15951cb319c76
-    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-4b239052e9f7b4f4c8a15951cb319c76
-    projectPath: Temp\UnityTempFile-4b239052e9f7b4f4c8a15951cb319c76
+  - path: New Unity Project\Temp\UnityTempFile-2241820067abd6c43a9b012c4767b779
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-2241820067abd6c43a9b012c4767b779
+    projectPath: Temp\UnityTempFile-2241820067abd6c43a9b012c4767b779
     originalPath: 
     status: 1
     staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-7f9b3343edf8da944be2c6d8710c8fe5
-    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-7f9b3343edf8da944be2c6d8710c8fe5
-    projectPath: Temp\UnityTempFile-7f9b3343edf8da944be2c6d8710c8fe5
+  - path: New Unity Project\Temp\UnityTempFile-69a1d7474230dd04fb21b3eb5f3f0fa3
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-69a1d7474230dd04fb21b3eb5f3f0fa3
+    projectPath: Temp\UnityTempFile-69a1d7474230dd04fb21b3eb5f3f0fa3
     originalPath: 
     status: 1
     staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-c9f55c04e11c7944e9c666bf7352b6fb
-    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-c9f55c04e11c7944e9c666bf7352b6fb
-    projectPath: Temp\UnityTempFile-c9f55c04e11c7944e9c666bf7352b6fb
+  - path: New Unity Project\Temp\UnityTempFile-b000219654efc404f92eaa641b9d38fb
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-b000219654efc404f92eaa641b9d38fb
+    projectPath: Temp\UnityTempFile-b000219654efc404f92eaa641b9d38fb
     originalPath: 
     status: 1
     staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-e63a49b3a9f371f4c82ab26238208ce9
-    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-e63a49b3a9f371f4c82ab26238208ce9
-    projectPath: Temp\UnityTempFile-e63a49b3a9f371f4c82ab26238208ce9
+  - path: New Unity Project\Temp\UnityTempFile-dce01e731bd6dd346a4382bdc2a4bb3f
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-dce01e731bd6dd346a4382bdc2a4bb3f
+    projectPath: Temp\UnityTempFile-dce01e731bd6dd346a4382bdc2a4bb3f
     originalPath: 
     status: 1
     staged: 0

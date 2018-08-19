@@ -12,9 +12,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-08-19T08:27:01.694+05:30
-  initializedAtString: 2018-08-19T08:27:01.694+05:30
+  lastUpdatedAtString: 2018-08-19T12:30:49.128+05:30
+  initializedAtString: 2018-08-19T12:30:49.128+05:30
   log:
+  - commitID: 0a5d4f274a17ae498dfb4e3dfe50792bc9b056fc
+    mergeA: 
+    mergeB: 
+    authorName: Shreyas0598
+    authorEmail: shreyasjg@gmail.com
+    commitEmail: shreyasjg@gmail.com
+    commitName: Shreyas0598
+    summary: gandu 2
+    description: gandu 2
+    timeString: 2018-08-19T08:27:34.000+05:30
+    commitTimeString: 2018-08-19T08:27:34.000+05:30
+    changes:
+    - path: New Unity Project\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: dc3ad1f24ccbf25b818c5a1e85a4ad29a5d024a6
     mergeA: 
     mergeB: 
