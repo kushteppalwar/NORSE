@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-19T12:30:50.219+05:30
-  initializedAtString: 2018-08-19T12:30:49.211+05:30
+  lastUpdatedAtString: 2018-08-19T13:17:45.391+05:30
+  initializedAtString: 2018-08-19T13:17:44.787+05:30
   entries:
   - path: New Unity Project\Library\CurrentLayout.dwlt
     fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\CurrentLayout.dwlt
@@ -26,6 +26,12 @@ MonoBehaviour:
     projectPath: Library\EditorInstance.json
     originalPath: 
     status: 1
+    staged: 0
+  - path: New Unity Project\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
     staged: 0
   - path: New Unity Project\Library\gfu\cache\gitlog.yaml
     fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\gitlog.yaml
@@ -57,21 +63,63 @@ MonoBehaviour:
     originalPath: 
     status: 5
     staged: 0
+  - path: New Unity Project\Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+    projectPath: Library\ShaderCache\1\1656c5e1c27822320dbfbde7546c8d83.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\ShaderCache\3\321ee39bb820c1c517693e1baa2e3e5b.bin
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\ShaderCache\3\321ee39bb820c1c517693e1baa2e3e5b.bin
+    projectPath: Library\ShaderCache\3\321ee39bb820c1c517693e1baa2e3e5b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\ShaderCache\3\3eb41ba0279c517036829c28ae9ea10a.bin
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\ShaderCache\3\3eb41ba0279c517036829c28ae9ea10a.bin
+    projectPath: Library\ShaderCache\3\3eb41ba0279c517036829c28ae9ea10a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+    projectPath: Library\ShaderCache\a\a92beed0086c3e4bef81d7259e2edd66.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\ShaderCache\b\b861647f7ac142d7837817e885ce9759.bin
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\ShaderCache\b\b861647f7ac142d7837817e885ce9759.bin
+    projectPath: Library\ShaderCache\b\b861647f7ac142d7837817e885ce9759.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Library\ShaderCache\d\d46092457fc813dad36b2d28cf9e0262.bin
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\ShaderCache\d\d46092457fc813dad36b2d28cf9e0262.bin
+    projectPath: Library\ShaderCache\d\d46092457fc813dad36b2d28cf9e0262.bin
+    originalPath: 
+    status: 1
+    staged: 0
   - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
     originalPath: 
     status: 3
     staged: 0
-  - path: New Unity Project\Temp\ProcessJobs\7605cc9612dd097a728102f9d95612da.bakert
-    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\ProcessJobs\7605cc9612dd097a728102f9d95612da.bakert
-    projectPath: Temp\ProcessJobs\7605cc9612dd097a728102f9d95612da.bakert
-    originalPath: 
-    status: 1
-    staged: 0
   - path: New Unity Project\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
     fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
     projectPath: Temp\ProcessJobs\e4d7cdea9e7b674007a994e68f178ef6.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\Unity.TextMeshPro.dll
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\Unity.TextMeshPro.dll
+    projectPath: Temp\Unity.TextMeshPro.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: New Unity Project\Temp\Unity.TextMeshPro.dll.mdb
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\Unity.TextMeshPro.dll.mdb
+    projectPath: Temp\Unity.TextMeshPro.dll.mdb
     originalPath: 
     status: 1
     staged: 0
@@ -81,27 +129,21 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-2241820067abd6c43a9b012c4767b779
-    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-2241820067abd6c43a9b012c4767b779
-    projectPath: Temp\UnityTempFile-2241820067abd6c43a9b012c4767b779
+  - path: New Unity Project\Temp\UnityTempFile-3d2802bd80bcffd4ba6983622d0b136f
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-3d2802bd80bcffd4ba6983622d0b136f
+    projectPath: Temp\UnityTempFile-3d2802bd80bcffd4ba6983622d0b136f
     originalPath: 
     status: 1
     staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-69a1d7474230dd04fb21b3eb5f3f0fa3
-    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-69a1d7474230dd04fb21b3eb5f3f0fa3
-    projectPath: Temp\UnityTempFile-69a1d7474230dd04fb21b3eb5f3f0fa3
+  - path: New Unity Project\Temp\UnityTempFile-d6b140a8827ca7840a8e6bbb6547868a
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-d6b140a8827ca7840a8e6bbb6547868a
+    projectPath: Temp\UnityTempFile-d6b140a8827ca7840a8e6bbb6547868a
     originalPath: 
     status: 1
     staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-b000219654efc404f92eaa641b9d38fb
-    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-b000219654efc404f92eaa641b9d38fb
-    projectPath: Temp\UnityTempFile-b000219654efc404f92eaa641b9d38fb
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: New Unity Project\Temp\UnityTempFile-dce01e731bd6dd346a4382bdc2a4bb3f
-    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-dce01e731bd6dd346a4382bdc2a4bb3f
-    projectPath: Temp\UnityTempFile-dce01e731bd6dd346a4382bdc2a4bb3f
+  - path: New Unity Project\Temp\UnityTempFile-fc1fbf48daa4c4e42aede9f44d119f6a
+    fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Temp\UnityTempFile-fc1fbf48daa4c4e42aede9f44d119f6a
+    projectPath: Temp\UnityTempFile-fc1fbf48daa4c4e42aede9f44d119f6a
     originalPath: 
     status: 1
     staged: 0

@@ -12,9 +12,75 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2018-08-19T12:30:49.128+05:30
-  initializedAtString: 2018-08-19T12:30:49.128+05:30
+  lastUpdatedAtString: 2018-08-19T13:17:44.480+05:30
+  initializedAtString: 2018-08-19T13:17:44.480+05:30
   log:
+  - commitID: f0da1f76d1af82293f27a011fbf88c8523d3d433
+    mergeA: 
+    mergeB: 
+    authorName: Shreyas0598
+    authorEmail: shreyasjg@gmail.com
+    commitEmail: shreyasjg@gmail.com
+    commitName: Shreyas0598
+    summary: gf
+    description: gf
+    timeString: 2018-08-19T12:31:38.000+05:30
+    commitTimeString: 2018-08-19T12:31:38.000+05:30
+    changes:
+    - path: New Unity Project\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+      projectPath: Library\ShaderCache\5\5e9d089ffb880abd3abb22651b6914d6.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+      projectPath: Library\ShaderCache\a\a16128f40dfc3d008d1d1a587b49d7cd.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\New Unity Project\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 0a5d4f274a17ae498dfb4e3dfe50792bc9b056fc
     mergeA: 
     mergeB: 
