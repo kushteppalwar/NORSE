@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-08-19T08:12:27.520+05:30
-  initializedAtString: 2018-08-19T08:12:27.520+05:30
+  lastUpdatedAtString: 2018-08-19T08:27:01.646+05:30
+  initializedAtString: 2018-08-19T08:27:01.646+05:30
   currentGitRemote:
     name: origin
     url: https://github.com/kushteppalwar/NORSE.git
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/kushteppalwar/NORSE.git
-  currentHead: 0e97832
+  currentHead: dc3ad1f
