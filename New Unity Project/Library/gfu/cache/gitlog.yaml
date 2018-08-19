@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-08-19T08:13:50.275+05:30
+  initializedAtString: 2018-08-19T08:12:32.911+05:30
+  log:
+  - commitID: 0e978322b75063010a8598ec8c0a4b5cdcb508af
+    mergeA: 
+    mergeB: 
+    authorName: kushteppalwar
+    authorEmail: 31564247+kushteppalwar@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create chutiya
+    description: Create chutiya
+    timeString: 2018-08-19T13:22:51.000+05:30
+    commitTimeString: 2018-08-19T13:22:51.000+05:30
+    changes:
+    - path: chutiya
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\chutiya
+      projectPath: ..\chutiya
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: f85cc8e1947be840502e3ec5a28f644f1b4b53cb
+    mergeA: 
+    mergeB: 
+    authorName: Shreyas0598
+    authorEmail: shreyasjg@gmail.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update README.md
+    description: Update README.md
+    timeString: 2018-08-19T13:19:04.000+05:30
+    commitTimeString: 2018-08-19T13:19:04.000+05:30
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 85b8bbaadce265aba0fa7cc2bbc36c42453c1dca
+    mergeA: 
+    mergeB: 
+    authorName: kushteppalwar
+    authorEmail: 31564247+kushteppalwar@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-08-19T13:09:44.000+05:30
+    commitTimeString: 2018-08-19T13:09:44.000+05:30
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Shreyas\Documents\GitHub\norse\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      status: 4
+      staged: 0
